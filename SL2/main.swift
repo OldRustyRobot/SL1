@@ -9,4 +9,5 @@
 import Foundation
 
 let foo = "hello world"
+let bar : NSString
 print(foo)
