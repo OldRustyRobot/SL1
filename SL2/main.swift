@@ -9,3 +9,12 @@
 import Foundation
 
 
+
+var foo : Array<Dictionary<String, String>> = []
+var bar : [String : String]
+
+bar = ["foo":"bar"]
+
+foo.append(bar)
+print(foo)
+
