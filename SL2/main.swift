@@ -15,6 +15,7 @@ var bar : [String : String]
 
 bar = ["foo":"bar"]
 
+
 foo.append(bar)
-print(foo)
+//print(foo)
 
