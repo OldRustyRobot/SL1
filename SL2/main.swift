@@ -8,8 +8,6 @@
 
 import Foundation
 
-
-
 var foo : Array<Dictionary<String, String>> = []
 var bar : [String : String]
 
